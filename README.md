@@ -1,2 +1,1 @@
-# alx-backend-javascript
-alx-backend-javascript
+Solutions to Backend specialization projects
